@@ -7,8 +7,7 @@ import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-//sample line to check the master is refelecting or not
-
+//rasing conflicts
 public class Sample {
 public static void main(String[] args) throws IOException {
 	File f=new File("C:\\Users\\madhu\\eclipse-workspace\\Maven\\ExcelFiles\\data.xlsx");
